@@ -26,15 +26,15 @@ This system helps in wildlife conservation, biodiversity research, and surveilla
 
 # 🛠️ Tech Stack
 
---Deep Learning: TensorFlow, Keras
+── Deep Learning: TensorFlow, Keras
 
-Computer Vision: OpenCV
+── Computer Vision: OpenCV
 
-Data Science: NumPy, Pandas, Matplotlib
+── Data Science: NumPy, Pandas, Matplotlib
 
-Visualization: Plotly, Dash
+── Visualization: Plotly, Dash
 
-Deployment: Heroku (Procfile, runtime.txt)
+── Deployment: Heroku (Procfile, runtime.txt)
 
 # 📂 Project Structure
 
@@ -87,16 +87,16 @@ $ jupyter notebook jupyter-notebooks/krst_object_detection.ipynb
 
 # 📁 Dataset Info
 
-Includes CCTV, drone, and wildlife footage
+── Includes CCTV, drone, and wildlife footage
 
-CSV files contain bounding box annotations and object labels
+── CSV files contain bounding box annotations and object labels
 
 
-Example datasets:
+# Example datasets:
 
-Zebra_object_data.csv → Zebra detection
+── Zebra_object_data.csv → Zebra detection
 
-FarmDroneDetectionData.csv → Farm wildlife monitoring
+── FarmDroneDetectionData.csv → Farm wildlife monitoring
 
 # 🌍 Applications
 
@@ -118,9 +118,9 @@ FarmDroneDetectionData.csv → Farm wildlife monitoring
 
 # ✨ Final Thoughts
 
-Wildeye AI demonstrates how AI & Computer Vision can support wildlife protection.
+── Wildeye AI demonstrates how AI & Computer Vision can support wildlife protection.
 
-It automates monitoring, reduces human effort, and provides real-time insights for biodiversity conservation.
+── It automates monitoring, reduces human effort, and provides real-time insights for biodiversity conservation.
 
 🐾 “Protecting wildlife through intelligence — because every species deserves to be seen.”
 
