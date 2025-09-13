@@ -26,7 +26,7 @@ This system helps in wildlife conservation, biodiversity research, and surveilla
 
 # 🛠️ Tech Stack
 
-Deep Learning: TensorFlow, Keras
+--Deep Learning: TensorFlow, Keras
 
 Computer Vision: OpenCV
 
